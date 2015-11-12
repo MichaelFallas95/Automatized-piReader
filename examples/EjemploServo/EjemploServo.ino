@@ -2,6 +2,7 @@
 
 Servo myservo;  
 
+
 int pos = 0;    
 
 void setup() {
